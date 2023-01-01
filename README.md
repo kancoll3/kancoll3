@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kancoll3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kancoll3l3l3l3l3l3l3
+- 👀 I’m interested in Money
+- 🌱 I’m currently learning Nothing
+- 💞️ I’m looking to collaborate with messex and rinaldo
+- 📫 How to reach me myassobig@gmail.com
 
 <!---
 kancoll3/kancoll3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
